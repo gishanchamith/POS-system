@@ -1,0 +1,11 @@
+ItemCode,ItemName,Price,Weight,Manufacturer,ManufacturerDate,ExpiryDate
+1001,MilkPowder,200,1.0,Abewela,2025-01-31,2028-12-31
+1002,Biscuit,150,0.5,Maliban,2024-06-15,2025-12-31
+1003,Apple,300,1.0,KisaPlants,2025-02-10,2025-6-31
+1004,WhiteRice,120,5.0,Kisa_Haal,2026-01-20,2028-12-31
+1005,Chicken,800,1.5,HasaMeats,2025-03-25,2028-12-31
+1006,Sugar,90,1.0,palawatteestate,2026-02-05,2028-12-31
+1007,Eggs,50,0.2,HasaMeats,2025-07-30,2028-12-31
+1008,Cheese,500,0.5,HasaMeats,2025-11-18,2028-10-31
+1009,Butter,400,0.3,HasaMeats,2025-08-22,2028-11-31
+1010,Orange,250,1.2,KisaPlants,2025-02-05,2026-12-15
