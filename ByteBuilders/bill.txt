@@ -1,13 +1,12 @@
 Super-Saving Supermarket -Kegalle Branch- Bill
-Cashier: kisaja
-Customer: ashini
-Date: 2025-03-12 10:41:11
+Cashier: Kisaja
+Customer: Ashini
+Date: 2025-03-12 10:58:18
 --------------------------------------------------
 Qty  Item Name                Unit Price  Total Price
 --------------------------------------------------
-3    Biscuit              Rs. 150.00     Rs. 450.00
-5    MilkPowder           Rs. 200.00     Rs. 1000.00
-6    Apple                Rs. 300.00     Rs. 1800.00
+5    Cheese               Rs. 500.00     Rs. 2500.00
+3    WhiteRice            Rs. 120.00     Rs. 360.00
 --------------------------------------------------
-Total Discount: Rs. 280.00
-Total Cost: Rs. 2970.00
+Total Discount: Rs. 86.00
+Total Cost: Rs. 2774.00
